@@ -10,5 +10,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAurelioMeneses&layout=donut-vertical)](https://github.com/MarcoAurelioMeneses/github-readme-stats)
+
 
