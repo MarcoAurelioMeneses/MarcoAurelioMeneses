@@ -4,8 +4,7 @@
 
 ### Ferramentas que mais utilizo no dia-a-dia:
 - Java
-- React Native
-- JavaScript
+- Python
 
 
 
