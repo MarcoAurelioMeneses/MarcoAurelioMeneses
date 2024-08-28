@@ -1,6 +1,7 @@
 ## Opa, e aí? Me chamo Marco Aurélio, formado em Jogos Digitais e trabalho como Software Developer.
 
 ![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAurelioMeneses&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username=MarcoAurelioMeneses&layout=compact)
 
 <div style="display: inline_block"><br>
    <img align="center" alt="marco-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
