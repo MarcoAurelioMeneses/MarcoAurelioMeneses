@@ -1,4 +1,4 @@
-## Opa, e aí? Me chamo Marco Aurélio, formado em Jogos Digitais e trabalho como Software Developer.
+## Opa, e aí?
 
 ![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAurelioMeneses&show_icons=true&theme=transparent)
 
